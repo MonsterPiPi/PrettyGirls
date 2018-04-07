@@ -8,11 +8,9 @@
 
 <div align="left">
 
-<img src="http://i.imgur.com/T9U8g5b.jpg" height="300px" alt=""> <img src="http://i.imgur.com/ivGy3ga.jpg" height="300px" alt=""> <img src="http://i.imgur.com/HI3PipV.png" height="300px" alt="">
+<img src="http://i.imgur.com/T9U8g5b.jpg" height="300px" alt=""> <img src="http://i.imgur.com/ivGy3ga.jpg" height="300px" alt="">
 
 </div>
-
-[下载](https://github.com/PleaseCallMeCoder/PrettyGirls/releases/tag/v1.2.0)
 
 # 更新日志
 
@@ -36,8 +34,6 @@
 # 关于
 
 亲，喜欢就start一下吧
-
-您可以在这里提出您宝贵的[意见和想法](https://github.com/PleaseCallMeCoder/PrettyGirls/issues)
 
 ## 依赖库
 
@@ -65,9 +61,9 @@ compile 'com.android.support:design:23.0.1'————谷歌Material Design控�
 
 # 联系方式
 
-邮箱：<shenjuex@gmail.com>
+邮箱：<xlyanrui@sina.com>
 
 # 我的博客
 
-[点击查看我的博客](http://candy.renleicoder.com/)
+[点击查看我的博客](https://blog.csdn.net/qq_21937107/)
 
